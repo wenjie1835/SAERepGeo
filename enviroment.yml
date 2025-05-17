@@ -1,0 +1,18 @@
+name: saerepgeo
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.10
+  - pip
+  - conda-forge::pytorch=2.5.1
+  - conda-forge::pandas=2.2.3
+  - conda-forge::numpy=1.26.4
+  - conda-forge::scikit-learn=1.6.0
+  - conda-forge::umap-learn=0.5.7
+  - conda-forge::hdbscan=0.8.40
+  - conda-forge::scipy=1.14.1
+  - pip:
+      - sae-lens==5.9.1
+      - POT==0.9.5
+      - scikit-dimension==0.3.4

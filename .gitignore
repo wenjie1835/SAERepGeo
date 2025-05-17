@@ -1,0 +1,44 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+build/
+dist/
+*.egg-info/
+*.egg
+
+# Outputs
+outputs/
+test_outputs/
+
+# Environments
+.env
+.venv
+env/
+venv/
+ENV/
+*.venv
+
+# IDEs and Editors
+.idea/
+.vscode/
+*.sublime-workspace
+*.code-workspace
+
+# System Files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Notebooks
+.ipynb_checkpoints/
+
+# Temporary Files
+*.swp
+*~
+*.bak
+*.tmp
