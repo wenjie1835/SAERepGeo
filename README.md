@@ -101,7 +101,3 @@ python src/main.py
 ## License
 
 MIT License (see `LICENSE`).
-
-## Notes
-
-- **Anonymity**: Hosted anonymously for NeurIPS compliance.
