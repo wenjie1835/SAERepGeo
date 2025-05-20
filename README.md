@@ -1,4 +1,4 @@
-SAERepGeo: Sparsification and Reconstruction from Representation Geometry
+## Sparsification and Reconstruction from Representation Geometry
 
 This repository contains code for the paper, it's implements experiments analyzing Sparse Autoencoder (SAE) representation geometry in language models via three cases:
 
