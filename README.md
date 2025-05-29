@@ -100,4 +100,20 @@ python src/main.py
 
 ## License
 
+### Citation
+
+If you find this work useful, please consider citing our paper:
+
+@misc{sun2025sparsificationreconstructionperspectiverepresentation,
+title={Sparsification and Reconstruction from the Perspective of Representation Geometry},
+author={Wenjie Sun and Bingzhe Wu and Zhile Yang and Chengke Wu},
+year={2025},
+eprint={2505.22506},
+archivePrefix={arXiv},
+primaryClass={cs.LG},
+url={https://arxiv.org/abs/2505.22506},
+}
+
+
+
 MIT License (see `LICENSE`).
