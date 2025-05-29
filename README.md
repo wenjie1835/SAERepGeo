@@ -1,4 +1,4 @@
-## Sparsification and Reconstruction from Representation Geometry
+## [Sparsification and Reconstruction from the perspective of Representation Geometry](https://arxiv.org/abs/2505.22506)
 
 This repository contains code for the paper, it's implements experiments analyzing Sparse Autoencoder (SAE) representation geometry in language models via three cases:
 
